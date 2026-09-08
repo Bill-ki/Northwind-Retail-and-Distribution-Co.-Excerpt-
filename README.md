@@ -7,7 +7,7 @@ Everything is entailed in the excel workbook
 ## Visualization 
 Uploading the PowerBi dashboard soon
 
-##Tool used
+## Tool used
 Excel 
 postgreSQL 
 Pandas
